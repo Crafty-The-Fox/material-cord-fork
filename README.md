@@ -2,6 +2,6 @@
 
 # material-cord
 Yet another dark Powercord theme.
+also, blurple is changed to red.
 
 
-![Screenshot of material-cord](https://github.com/sneexy-boi/material-cord/blob/main/docs/screenshot.png)
